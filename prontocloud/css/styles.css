@@ -1,8 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box; 
-    
+    box-sizing: border-box;
 }
 html {
     font-size: 62.5%;
@@ -142,7 +141,7 @@ section article {
 }
 
 footer {
-    background-color: #592525;  
+    background-color: #254159;  
     display: block;
     float: left;
     padding: 20px;
@@ -160,7 +159,7 @@ footer small {
 }
 
 .cognito {
-    height: 350px !important;
+    height: 400px !important;
     overflow: hidden !important;
 }
 
