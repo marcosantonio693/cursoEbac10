@@ -24,6 +24,8 @@ body {
     width: 100%;
     margin: 0 auto;
     max-width: 1198px;
+    padding: 0;
+  
 }
 
 
@@ -31,7 +33,7 @@ header {
     background: #fff;
     display: block;
     float: left;
-    padding: 20px;
+    padding: 20px 0;
     width: 100%;
     border-bottom: 1px solid #254159;
 }
@@ -150,7 +152,7 @@ footer {
     background-color: #254159;  
     display: block;
     float: left;
-    padding: 20px;
+    padding: 20px 0;
     width: 100%;
 }
 
