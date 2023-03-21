@@ -40,5 +40,5 @@ Uniform Resource Locator
 
 - URL amigável: humanos e mecanismo de busca
 
- https://shre.ink/xao9Ni
-  https://ebaconline.com.br/front-end-profession
+https://shre.ink/xao9Ni
+https://ebaconline.com.br/front-end-profession
