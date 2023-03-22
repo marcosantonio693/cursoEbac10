@@ -40,5 +40,18 @@ Uniform Resource Locator
 
 - URL amigável: humanos e mecanismo de busca
 
-https://shre.ink/xao9Ni
-https://ebaconline.com.br/front-end-profession
+- https://shre.ink/xao9Ni
+- https://ebaconline.com.br/front-end-profession
+
+### Exercicio
+Fluxo Completo
+Objetivo: capturar o maximo de leads possiveis.
+
++ Cria landing Page
++ Cria Newletter
++ Publicar projeto em um servidor web: https://app.infinityfree.net/
++ Cria URL amigável para compartilhamento: https://bityli.com/
++ Convidar pessoas nas redes socias para sua landig page (página de destino / pouso)
++ Enviar Nwesletter para list de contato com link para a página do post: https://bityli.com/
++ Comitar código no seu repositório do GitHub
++ Enviar links para avaliação na plataforma da EBAC
